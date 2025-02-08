@@ -1,0 +1,21 @@
+#bg-img {
+	position: absolute;
+	z-index: -1;
+}
+
+.link-img {
+	margin-top: 18%;
+	margin-right: -50px;
+}
+
+#wh-img {
+	margin-top: 1%;
+	margin-left: 50px;
+	margin-bottom: 1%;
+}
+
+#sn-img {
+	border-radius: 60px;
+	margin-left: 38.5%;
+	scale: 0.85;
+}
